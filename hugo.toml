@@ -1,0 +1,6 @@
+baseURL = 'https://ztony6688.github.io/web3blog/'
+languageCode = 'en-us'
+title = 'tonyweb3blog'
+theme = 'PaperMod'
+
+enableEmoji = true
